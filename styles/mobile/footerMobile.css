@@ -31,7 +31,7 @@
 
 .footerMobile .contatoEmail::placeholder{ 
     padding: 0.3em;       
-    background: url("./img/email.svg") no-repeat;
+    background: url("../../img/email.svg") no-repeat;
     padding-left: 2.5em;
 }
 
