@@ -11,6 +11,10 @@
     text-align: center;
 }
 
+.grifar {
+    color: var(--amarelo);
+}
+
 .socialProof .testimonials {
     margin-bottom: 40px;
 }
