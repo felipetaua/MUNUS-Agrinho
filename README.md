@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido durante as aulas de Programação em Desenvolvimento de Sistemas e representa uma possível aplicação Web para gerenciar mensagens e avisos do transporte escolar rural. Este projeto foi inscrito no concurso Agrinho 2024 no dia 09/08/2024.
 
+[![Live Server](https://img.shields.io/badge/Live_Server-Click_Here-brightgreen?style=for-the-badge)](https://felipetaua.github.io/MUNUS-Agrinho/)
+
 # Uso e funcionamento: 
 Funcionalidades e uso: O objetivo da aplicação web Munus Serviços é apresentar as possibilidades que existem em um uma solução que integrem o ambiente do campo com a cidade, envolvendo serviços essenciais. Nosso objetivo foi mostrar como seria o front-end de uma aplicação que unificasse funcionalidades desta natureza. Isso se justifica devido ao fato de percebermos que tantas pessoas não conseguem encontrar e contratar serviços pelo excesso de informações, abordei também os serviços emergenciais que podem contribuir muito para salvar vidas e orientar a pessoa. Em nossa pesquisa, percebemos que usuários não sabem encontrar o comércio sem ser presencial por falta de conhecimento tecnológico por isso uma das exigências era interface intuitiva.
 
