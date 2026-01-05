@@ -1,7 +1,7 @@
 # Munus - Serviços
 
 [em atualização ]
-aprimorando visual
+aprimorando visual, adicionando novas telas
 
 Este projeto foi desenvolvido durante as aulas de **Programação em Desenvolvimento de Sistemas** e representa uma possível aplicação web para gerenciar mensagens e avisos do transporte escolar rural. O projeto foi inscrito no **concurso Agrinho 2024**, onde ficou entre os **3 melhores projetos do núcleo na fase regional**. Inscrição realizada em **09/08/2024**.  
 
